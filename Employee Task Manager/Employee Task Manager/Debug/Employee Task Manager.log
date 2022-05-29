@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Karim\source\repos\Employee Task Manager\Employee Task Manager\Source.cpp(155,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Karim\source\repos\Employee Task Manager\Employee Task Manager\Source.cpp(256,21): warning C4018: '<': signed/unsigned mismatch
+  Employee Task Manager.vcxproj -> C:\Users\Karim\source\repos\Employee Task Manager\Debug\Employee Task Manager.exe
